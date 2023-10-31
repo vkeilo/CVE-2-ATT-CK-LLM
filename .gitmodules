@@ -1,0 +1,3 @@
+[submodule "Taotie"]
+	path = Taotie
+	url = git@github.com:vkeilo/Taotie.git
